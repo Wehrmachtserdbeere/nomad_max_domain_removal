@@ -4,4 +4,5 @@ tags={
 	"Utilities"
 }
 name="Nomad Max Domain Removal"
-supported_version="1.16.0.1"
+supported_version="1.16.*"
+remote_file_id="3475221786"

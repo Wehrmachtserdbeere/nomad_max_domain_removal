@@ -2,6 +2,7 @@ nomadic_authority = {
 	default = nomadic_authority_1
 	cumulative = yes
 	flag = realm_law
+	@nomadic_authority_cooldown_years = 5
 	
 	nomadic_authority_1 = {
 		pass_phrase = nomadic_authority_1_pass_phrase
